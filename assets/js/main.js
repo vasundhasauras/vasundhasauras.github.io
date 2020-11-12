@@ -43,7 +43,7 @@
 	// Nav.
 
 		// Title Bar.
-			$(
+		/*	$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
 					'<span class="title">' + $('#logo').html() + '</span>' +
@@ -70,7 +70,7 @@
 					target: $body,
 					visibleClass: 'navPanel-visible'
 				});
-
+*/
 	// Parallax.
 	// Disabled on IE (choppy scrolling) and mobile platforms (poor performance).
 		if (browser.name == 'ie'
