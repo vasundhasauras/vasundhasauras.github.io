@@ -11,7 +11,7 @@ My github profile can be found [here](https://github.com/vasundhasauras)
 
 <br>
 
-#### Resources
+#### Resources & License
 All artwork and other projects showcased in the above mentioned site have been created by me.<br>
 License for said work can be found with the individual project pages and repos. <br>
 
