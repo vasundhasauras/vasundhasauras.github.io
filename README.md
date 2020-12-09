@@ -5,9 +5,9 @@ My github profile can be found [here](https://github.com/vasundhasauras)
 ### Connect with me
 ✉️ _vasundhara.14@gmail.com_
 
-<a href="https://www.linkedin.com/in/vasundhara-sharma-539a6589/" target="blank"><img align="center" src="https://raw.githubusercontent.com/xtoolkit/Micon/8d34a6f055b901dcd6a5d45d24318d1caf443128/icons/webbrand/linkedin.svg" alt="linkedin/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vasundhasauras/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="insta" height="30" width="40" /></a>
-<a href="https://www.behance.net/vasundhsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vasundhasauras/" target="blank"><img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/instagram-2-1.svg" alt="https://www.instagram.com/vasundhasauras/" height="40" width="40"/></a>
+<a href="https://www.behance.net/vasundhsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/behance-1.svg" alt="https://www.behance.net/vasundhsharma" height="40" width="40"/></a>
+<a href="https://keybase.io/vas_sharma" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/keybase/keybase-icon.svg" alt="https://keybase.io/vas_sharma" height="40" width="40"/></a>
 
 <br>
 
